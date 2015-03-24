@@ -1,5 +1,5 @@
 ﻿/// <reference path="../angular.js" />
 var app;
 (function () {
-    app = angular.module("crudModule", ['ngRoute']);
+    app = angular.module("crudModule", ['ui.router']);
 })();

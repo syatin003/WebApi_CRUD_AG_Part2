@@ -18,7 +18,7 @@ namespace testing.Controllers
           return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Admin()
         {
             ViewBag.Message = "Your contact page.";
 
